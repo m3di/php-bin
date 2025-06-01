@@ -14,5 +14,6 @@
     "libjpeg",
     "freetype",
     "sqlite",
+    "libxslt",
     "libzip"
 ]
